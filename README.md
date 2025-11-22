@@ -1,3 +1,11 @@
+<!-- Kydras Repo Header -->
+<p align="center">
+  <strong>Kydras Systems Inc.</strong><br/>
+  <em>Nothing is off limits.</em>
+</p>
+
+---
+
 # Kydras Systems Inc. — GitHub Homepage
 
 Welcome to the official GitHub Pages site for **Kydras Systems Inc.**  
@@ -28,3 +36,4 @@ For inquiries, onboarding, or collaboration:
 
 > Every asset, overlay, and automation script is a reflection of our identity.  
 > We don’t just build tools—we build trust, transparency, and timeless polish.
+
